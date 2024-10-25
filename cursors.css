@@ -1,0 +1,58 @@
+html.theme-windows-3 {
+	cursor: url(../default.cur), default;
+}
+
+.theme-windows-3 p {
+	cursor: url(../text.cur), text;
+}
+
+.theme-windows-3 .emuos-desktop-icon,
+.theme-windows-3 .ui-button,
+.theme-windows-3 .ui-menu .ui-menu-item,
+.theme-windows-3 .mCustomScrollBox .mCSB_dragger .mCSB_dragger_bar,
+.theme-windows-3 .mCustomScrollBox .mCSB_buttonUp,
+.theme-windows-3 .mCustomScrollBox .mCSB_buttonDown {
+	cursor: url(../pointer.cur), pointer;
+}
+
+.theme-windows-3 .emuos-taskbar-windows-containment,
+.theme-windows-3 .emuos-taskbar-window-copy,
+.theme-windows-3 .emuos-taskbar-resizable.emuos-taskbar-resizable-disabled .ui-resizable-handle {
+	cursor: url(../default.cur), default;
+}
+
+.theme-windows-3 .ui-draggable .ui-dialog-titlebar {
+	cursor: url(../move.cur), move;
+}
+
+.theme-windows-3 .ui-resizable-n {
+	cursor: url(../vertical.cur), n-resize;
+}
+
+.theme-windows-3 .ui-resizable-e {
+	cursor: url(../horizontal.cur), e-resize;
+}
+
+.theme-windows-3 .ui-resizable-s {
+	cursor: url(../vertical.cur), s-resize;
+}
+
+.theme-windows-3 .ui-resizable-w {
+	cursor: url(../horizontal.cur), w-resize;
+}
+
+.theme-windows-3 .ui-resizable-nw {
+	cursor: url(../diagonal1.cur), nw-resize;
+}
+
+.theme-windows-3 .ui-resizable-ne {
+	cursor: url(../diagonal2.cur), ne-resize;
+}
+
+.theme-windows-3 .ui-resizable-sw {
+	cursor: url(../diagonal2.cur), sw-resize;
+}
+
+.theme-windows-3 .ui-resizable-se {
+	cursor: url(../diagonal1.cur), se-resize;
+}

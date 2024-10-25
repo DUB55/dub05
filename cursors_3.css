@@ -1,0 +1,59 @@
+html.theme-windows-me {
+	cursor: url(../default_1.cur), default;
+}
+
+.theme-windows-me p {
+	cursor: url(../text_1.cur), text;
+}
+
+.theme-windows-me .emuos-desktop-icon,
+.theme-windows-me .emuos-window .emuos-window-icon,
+.theme-windows-me .ui-button,
+.theme-windows-me .ui-menu .ui-menu-item,
+.theme-windows-me .mCustomScrollBox .mCSB_dragger .mCSB_dragger_bar,
+.theme-windows-me .mCustomScrollBox .mCSB_buttonUp,
+.theme-windows-me .mCustomScrollBox .mCSB_buttonDown {
+	cursor: url(../pointer_1.cur), pointer;
+}
+
+.theme-windows-me .emuos-taskbar-windows-containment,
+.theme-windows-me .emuos-taskbar-window-copy,
+.theme-windows-me .emuos-taskbar-resizable.emuos-taskbar-resizable-disabled .ui-resizable-handle {
+	cursor: url(../default_1.cur), default;
+}
+
+.theme-windows-me .ui-draggable .ui-dialog-titlebar {
+	cursor: url(../move_1.cur), move;
+}
+
+.theme-windows-me .ui-resizable-n {
+	cursor: url(../vertical_1.cur), n-resize;
+}
+
+.theme-windows-me .ui-resizable-e {
+	cursor: url(../horizontal_1.cur), e-resize;
+}
+
+.theme-windows-me .ui-resizable-s {
+	cursor: url(../vertical_1.cur), s-resize;
+}
+
+.theme-windows-me .ui-resizable-w {
+	cursor: url(../horizontal_1.cur), w-resize;
+}
+
+.theme-windows-me .ui-resizable-nw {
+	cursor: url(../diagonal1_1.cur), nw-resize;
+}
+
+.theme-windows-me .ui-resizable-ne {
+	cursor: url(../diagonal2_1.cur), ne-resize;
+}
+
+.theme-windows-me .ui-resizable-sw {
+	cursor: url(../diagonal2_1.cur), sw-resize;
+}
+
+.theme-windows-me .ui-resizable-se {
+	cursor: url(../diagonal1_1.cur), se-resize;
+}
